@@ -1,0 +1,30 @@
+#partedecima{
+
+background: chartreuse;
+display: flex;
+
+height: 400px;
+width: 1000px;
+align-items: center;
+justify-content:space-around;
+
+}
+
+#partedebaixo{
+
+background: blue;
+width: 1000px;
+margin-top: 50px;
+
+}
+
+#partedecima div{
+
+width: 100px;
+background-color: aqua;
+padding: 20px;
+
+
+
+}
+
